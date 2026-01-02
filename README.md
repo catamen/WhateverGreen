@@ -163,3 +163,4 @@ Read [FAQs](./Manual/) and avoid asking any questions. No support is provided fo
 - [Vandroiy](https://applelife.ru/members/vandroiy.83653/) for maintaining the GPU model detection database
 - [YungRaj](https://github.com/YungRaj) and [syscl](https://github.com/syscl) for Intel fix backporting
 - [vit9696](https://github.com/vit9696) for writing the software and maintaining it
+- # trigger build
